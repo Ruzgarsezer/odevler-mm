@@ -1,0 +1,2 @@
+# odevler-mm
+deneyap odevlerım
